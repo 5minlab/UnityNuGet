@@ -673,6 +673,10 @@
     "listed": true,
     "version": "3.0.0"
   },
+  "QueryString.NET": {
+    "listed": true,
+    "version": "1.0.0"
+  },
   "QuikGraph": {
     "listed": true,
     "version": "2.0.0"
